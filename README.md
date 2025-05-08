@@ -1,7 +1,5 @@
 README NotBopIt Final Project ECE167 Winter 2025: Sensing and Sensor Technologies UCSC
 
-see: https://github.com/djretta/NotBopIt/tree/main/NotBopIt/src
-
 SYNOPSIS
 
 NotBopIt is an enhanced version of the game BopIt. Like BopIt, NotBopIt incorporates several sensors into a housing, of which the player is expected to interact with correctly to proceed to the next trial, eventually level up, and, after completing all of the levels, win.
@@ -23,3 +21,6 @@ Additionally, the file pack provided by the course ("Common" folder) which imple
 The following platformio.ini is also required:
 
 [env:nucleo_f411re] platform = ststm32 board = nucleo_f411re framework = stm32cube lib_deps = ../Common lib_archive = no monitor_speed = 115200 build_flags = -Wl,-u_printf_float
+
+see: https://github.com/djretta/NotBopIt/tree/main/NotBopIt/src
+
