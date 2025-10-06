@@ -32,7 +32,7 @@ The required course-provided file package ("Common" folder) implements additiona
 | File           | Description                                           |
 |----------------|-------------------------------------------------------|
 | `NotBopIt.c`   | State machine and sound/RGB controls                  |
-| `light.c/.h`   | Encoder RGB output functions                          |
+| `light.c/.h`   | RGB output functions                                  |
 | `sound.c/.h`   | Speaker output functions                              |
 | `sensors.c/.h` | Sensor interpreting functions                         |
 | `PING.c/.h`    | Ultrasonic ping sensor distance functions             |
