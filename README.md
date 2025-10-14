@@ -1,4 +1,4 @@
-**NotBopIt ** State-based game for a STM32 microcontroller w/ 7 sensors utilizing non-blocking code (including for sounds/animations). Created using Visual Studio Code & PlatformIO plugin.
+**NotBopIt** State-based game for a STM32 microcontroller w/ 7 sensors utilizing non-blocking code (including for sounds/animations). Created using Visual Studio Code & PlatformIO plugin.
 
 
 Key game source files are located at: https://github.com/djretta/NotBopIt/tree/main/NotBopIt/src
@@ -38,4 +38,5 @@ The required course-provided file package ("Common" folder) implements additiona
 | `sensors.c/.h` | Sensor interpreting functions                         |
 | `PING.c/.h`    | Ultrasonic ping sensor distance functions             |
 | `QEI.c/.h`     | Relative rotary encoder current position in degrees   |
+
 
